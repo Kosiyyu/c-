@@ -26,8 +26,6 @@ static void getData()
         for (int j = 0; j < n + 1; j++)
         {
             indata >> tab[i][j];
-            //reading invalid data from 'tab[i]'
-            //czmeu? halo!?? jak jest dopszse
         }
     }
     for (int i = 0; i < n; i++) {
